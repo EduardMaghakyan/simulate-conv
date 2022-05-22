@@ -11,6 +11,7 @@ setuptools = "^60.9.3"
 cffi = "^1.15.0"
 SoundFile = "^0.10.3"
 numpy = "^1.22.3"
+plyvel = "^1.4.0"
 
 [tool.poetry.dev-dependencies]
 
